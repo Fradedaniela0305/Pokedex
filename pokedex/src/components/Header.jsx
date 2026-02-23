@@ -1,3 +1,3 @@
-export function Modal() {
+export function Header() {
     return
 }
