@@ -5,8 +5,8 @@
   /* padding: 1rem; */
   position: relative;
   max-width: 800px;
-  margin: 0 auto;
-  width: 100%;
+  margin: 0;      
+  max-width: none;
 }
 
 header {
@@ -254,7 +254,7 @@ h3 {
     display: flex;
     position: sticky;
     width: fit-content;
-    min-width: 200px;
+    min-width: 280px;
 
   }
 
