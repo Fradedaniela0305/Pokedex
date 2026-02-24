@@ -11,7 +11,7 @@ import { useState } from 'react'
 
 
 function App() {
-    const [selectedPokemon, setSelectedPokemon] = useState(0);
+    const [selectedPokemon, setSelectedPokemon] = useState(2);
 
 
   return (
